@@ -1,16 +1,14 @@
-### Hi there 👋
+Hello there and welcome to my GitHub page, I have zero idea how you found this but here's a little bit about me.
 
-<!--
-**swanserquack/swanserquack** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- What am I currently working on?: I am currently doing nothing (Unless you count learning blender in 10 days and making a 3d model of a school something)
+- What am I currently learning?: Python
+- What I can help you with: Little bug finds and any simple programs
+- How to reach me: 
+Twitter: swanserquack
 
-Here are some ideas to get you started:
+Thanks,
+swanserquack
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+My Stats (Thanks to anuraghazra):
+
+![swanserquacks's github stats](https://github-readme-stats.vercel.app/api?username=swanserquack)
