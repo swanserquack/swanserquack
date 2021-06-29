@@ -5,6 +5,7 @@ Hello there and welcome to my GitHub page, I have zero idea how you found this b
 - What do I know: HTML and CSS.
 - What I can help you with: Little bug finds and any simple programs
 - How to reach me: 
+- 
 Twitter: swanserquack
 
 Thanks,
