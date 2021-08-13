@@ -1,9 +1,9 @@
 Hello there and welcome to my GitHub page, I have no idea how you found this but here's a little bit about me.
 
-- What am I currently working on?: Mining cryptocurrency and trying to find a GTX 1050 it.
-- What am I currently learning?: Literally Nothing
+- What am I currently working on?: I am currently working on improving my GitHub knowledge.
+- What am I currently learning?: Python
 - What do I know: HTML and CSS.
-- What I can help you with: Little bug finds and any simple programs
+- What I can help you with: Little bug finds and any simple Python programs. I'm a fast learner!
 - How to reach me: [Twitter](https://twitter.com/swanserquack)
 
 
