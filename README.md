@@ -4,7 +4,7 @@ Hello there and welcome to my GitHub page, I have no idea how you found this but
 - What am I currently learning?: Game development + C++
 - What do I know: HTML, CSS, basic Python and basic C++.
 - What I can help you with: Bug Finds, Python and any little issues you might have in C++ code.
-- How to reach me: Currently not trying to be reached
+- How to reach me: God knows anymore
 
 
 
